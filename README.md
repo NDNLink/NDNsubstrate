@@ -5,7 +5,7 @@
 </p>
 
 
-Substrate is a next-generation framework for blockchain innovation 🚀.
+NDN Protocol Substrate is a next-generation framework for blockchain innovation 🚀.
 
 ## Trying it out
 
