@@ -112,5 +112,3 @@ them are violated, the behavior of this module is undefined.
 
 * [`System`](../frame_system/index.html)
 * [`Support`](../frame_support/index.html)
-
-License: Apache-2.0
