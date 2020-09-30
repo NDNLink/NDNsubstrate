@@ -1,6 +1,6 @@
 # Wasm builder is a utility for building a project as a Wasm binary
 
-The Wasm builder is a tool that integrates the process of building the WASM binary of your project into the main
+  The Wasm builder is a tool that integrates the process of building the WASM binary of your project into the main
 `cargo` build process.
 
 ## Project setup
