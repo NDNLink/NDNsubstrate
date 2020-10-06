@@ -19,6 +19,7 @@
 use std::{fmt, borrow::{Cow, ToOwned}};
 use serde::Serialize;
 
+
 pub struct Path(Vec<String>);
 
 impl Path {
