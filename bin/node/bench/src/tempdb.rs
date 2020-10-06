@@ -108,6 +108,7 @@ impl TempDatabase {
 	}
 }
 
+
 impl Clone for TempDatabase {
 	fn clone(&self) -> Self {
 		let new_dir = tempfile::tempdir().expect("temp dir creation failed");
