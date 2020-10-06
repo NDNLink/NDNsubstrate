@@ -55,6 +55,7 @@ use crate::{
 	core::{self, Path, Mode},
 };
 
+
 pub struct ConstructionBenchmarkDescription {
 	pub profile: Profile,
 	pub key_types: KeyTypes,
