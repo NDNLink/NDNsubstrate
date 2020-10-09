@@ -17,6 +17,7 @@
 // along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 //! Proof utilities
+
 use sp_runtime::{
 	generic::BlockId,
 	traits::{Block as BlockT},
