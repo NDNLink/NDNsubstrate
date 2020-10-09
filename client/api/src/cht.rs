@@ -25,6 +25,7 @@
 //! root has. A correct proof implies that the claimed block is identical to the one
 //! we discarded.
 
+
 use hash_db;
 use codec::Encode;
 use sp_trie;
