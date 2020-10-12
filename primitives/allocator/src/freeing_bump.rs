@@ -93,6 +93,7 @@ macro_rules! trace {
 /// 64                | 3
 ///
 /// and so on.
+
 #[derive(Copy, Clone, PartialEq, Eq, Debug)]
 struct Order(u32);
 
