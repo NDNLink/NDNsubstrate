@@ -17,6 +17,7 @@
 
 //! Traits and macros for constructing application specific strongly typed crypto wrappers.
 
+
 #![warn(missing_docs)]
 
 #![cfg_attr(not(feature = "std"), no_std)]
