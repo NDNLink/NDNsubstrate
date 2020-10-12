@@ -17,6 +17,7 @@
 
 //! Ed25519 crypto types.
 
+
 use crate::{RuntimePublic, KeyTypeId};
 
 use sp_std::vec::Vec;
