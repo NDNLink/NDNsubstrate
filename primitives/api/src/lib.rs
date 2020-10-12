@@ -31,6 +31,7 @@
 //!
 //! On a meta level this implies, the client calls the generated API from the client perspective.
 
+
 #![cfg_attr(not(feature = "std"), no_std)]
 
 // Make doc tests happy
