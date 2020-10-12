@@ -16,6 +16,7 @@
 // limitations under the License.
 
 /// The error type used by the allocators.
+
 #[derive(sp_core::RuntimeDebug)]
 #[cfg_attr(feature = "std", derive(derive_more::Display))]
 pub enum Error {
