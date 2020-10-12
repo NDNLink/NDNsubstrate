@@ -20,6 +20,7 @@
 //! This crate provides the following allocator implementations:
 //! - A freeing-bump allocator: [`FreeingBumpHeapAllocator`](freeing_bump::FreeingBumpHeapAllocator)
 
+
 #![cfg_attr(not(feature = "std"), no_std)]
 #![warn(missing_docs)]
 
